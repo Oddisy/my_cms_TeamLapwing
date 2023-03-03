@@ -8,12 +8,10 @@ This application is designed to assist bloggers, individuals and business with l
 ## Authors
 
 - [@Oddisy](https://www.github.com/Oddisy) Frontend Developer
-- [@Davidmilly](https://www.github.com/davidmilly) Frontend Developer
 - [@nifemi2005](https://www.github.com/nifemi2005) Frontend Developer
-- [@ig-matrix](https://www.github.com/ig-matrix) Frontend
 - [@faves1](https://www.github.com/faves1) Backend Developer
 - [@Nne85](https://www.github.com/Nne85) Backend Developer
-- [@Directormichaels](https://github.com/Directormichaels)Fullstack Developer
+- [@Directormichaels](https://github.com/Directormichaels)Backend Developer
 - [@Hasoye](https://www.github.com/Hasoye) Product Design 
 - [@designedbyzah](https://www.github.com/designedbyzah) Product Design
 - [@Adexgolden](https://www.github.com/Adexgolden) Product Design
